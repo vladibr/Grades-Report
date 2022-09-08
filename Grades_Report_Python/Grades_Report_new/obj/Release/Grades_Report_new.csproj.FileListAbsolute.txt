@@ -1,0 +1,14 @@
+G:\Projects\Grades_Report_new\Grades_Report_new\bin\Release\Grades_Report_new.exe.config
+G:\Projects\Grades_Report_new\Grades_Report_new\bin\Release\Grades_Report_new.exe
+G:\Projects\Grades_Report_new\Grades_Report_new\bin\Release\Grades_Report_new.pdb
+G:\Projects\Grades_Report_new\Grades_Report_new\obj\Release\Grades_Report_new.csproj.AssemblyReference.cache
+G:\Projects\Grades_Report_new\Grades_Report_new\obj\Release\Grades_Report_new.csproj.CoreCompileInputs.cache
+G:\Projects\Grades_Report_new\Grades_Report_new\obj\Release\Grades_Report_new.exe
+G:\Projects\Grades_Report_new\Grades_Report_new\obj\Release\Grades_Report_new.pdb
+D:\Salman_Api\Grades_Report_Query\Grades_Report_new\Grades_Report_new\bin\Release\Grades_Report_new.exe.config
+D:\Salman_Api\Grades_Report_Query\Grades_Report_new\Grades_Report_new\bin\Release\Grades_Report_new.exe
+D:\Salman_Api\Grades_Report_Query\Grades_Report_new\Grades_Report_new\bin\Release\Grades_Report_new.pdb
+D:\Salman_Api\Grades_Report_Query\Grades_Report_new\Grades_Report_new\obj\Release\Grades_Report_new.csproj.AssemblyReference.cache
+D:\Salman_Api\Grades_Report_Query\Grades_Report_new\Grades_Report_new\obj\Release\Grades_Report_new.csproj.CoreCompileInputs.cache
+D:\Salman_Api\Grades_Report_Query\Grades_Report_new\Grades_Report_new\obj\Release\Grades_Report_new.exe
+D:\Salman_Api\Grades_Report_Query\Grades_Report_new\Grades_Report_new\obj\Release\Grades_Report_new.pdb

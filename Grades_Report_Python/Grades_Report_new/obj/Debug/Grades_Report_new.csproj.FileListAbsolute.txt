@@ -1,0 +1,7 @@
+G:\Projects\Grades_Report_new\Grades_Report_new\bin\Debug\Grades_Report_new.exe.config
+G:\Projects\Grades_Report_new\Grades_Report_new\bin\Debug\Grades_Report_new.exe
+G:\Projects\Grades_Report_new\Grades_Report_new\bin\Debug\Grades_Report_new.pdb
+G:\Projects\Grades_Report_new\Grades_Report_new\obj\Debug\Grades_Report_new.csproj.AssemblyReference.cache
+G:\Projects\Grades_Report_new\Grades_Report_new\obj\Debug\Grades_Report_new.csproj.CoreCompileInputs.cache
+G:\Projects\Grades_Report_new\Grades_Report_new\obj\Debug\Grades_Report_new.exe
+G:\Projects\Grades_Report_new\Grades_Report_new\obj\Debug\Grades_Report_new.pdb
